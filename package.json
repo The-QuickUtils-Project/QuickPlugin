@@ -1,0 +1,22 @@
+{
+  "name": "quickplugin",
+  "version": "0.0.1",
+  "description": "A plugin system.",
+  "main": "src/index.ts",
+  "scripts": {
+    "compile": "tsc",
+    "test": "ts-node src/common/todo.ts"
+  },
+  "keywords": [
+    "CoreApps",
+    "CoraToDo",
+    "CoraTechWS"
+  ],
+  "author": "2minRain",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "tslint": "^5.20.1",
+    "typescript": "^5.5.4"
+  }
+}

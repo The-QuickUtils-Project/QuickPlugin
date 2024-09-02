@@ -1,0 +1,15 @@
+{
+    "name": {
+        "zh-CN": "示例",
+        "en-US": "Example"
+    },
+    "package": "org.cora.quick.pluginsys.example",
+    "author": "2minRain@CTWS",
+    "version": "0.0.1",
+    "platform": [
+        "desktop"
+    ],
+    "permissions": [
+        "org.cora.todo.plugin.system.permission."
+    ]
+}
